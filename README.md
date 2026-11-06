@@ -1,4 +1,4 @@
-# Direct Python on Arduino Q
+# Python on Arduino Q without Docker
 
 A streamlined quickstart guide to running native Python scripts directly in the terminal on the **Arduino Q** series (Arduino UNO Q and VENTUNO Q), bypassing Docker containerization and communicating directly with the microcontroller via the MessagePack-RPC **Router Bridge**.
 
